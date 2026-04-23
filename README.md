@@ -1,5 +1,7 @@
 # Hybrid Inventory Manager
 
+[![Download Latest Version](https://img.shields.io/badge/Download-Application-success?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Whitedevil964/Hybrid-Inventory-Manager/main/Downloads/HybridInventoryManager.zip)
+
 A capstone project demonstrating a hybrid application using C for binary file storage and C++ for the presentation layer.
 
 ## Build and Run Steps
